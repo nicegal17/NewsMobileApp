@@ -1,0 +1,25 @@
+<svg id="Group_1800" data-name="Group 1800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_3_Background_Mask_" data-name="3 (Background/Mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Ellipse_2" data-name="Ellipse 2" fill="#fff" stroke="#f2f2f2" stroke-width="1.2" stroke-dasharray="0 0">
+    <circle cx="20" cy="20" r="20" stroke="none"/>
+    <circle cx="20" cy="20" r="19.4" fill="none"/>
+  </g>
+  <g id="_3" data-name="3" transform="translate(8 8)">
+    <rect id="_3_Background_Mask_2" data-name="3 (Background/Mask)" width="24" height="24" fill="none"/>
+    <g id="_3-2" data-name="3" clip-path="url(#clip-path)">
+      <g id="Group" transform="translate(2.6 2.6)">
+        <path id="Vector" d="M0,14.78V6.87a6.87,6.87,0,0,1,13.74,0v7.91H0Z" transform="translate(2.2)" fill="none" stroke="#040507" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2" stroke-dasharray="0 0"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H18.13" transform="translate(0 14.78)" fill="none" stroke="#040507" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2" stroke-dasharray="0 0"/>
+        <path id="Vector-3" data-name="Vector" d="M4.04,0A2.021,2.021,0,0,1,2.02,2.02,2.014,2.014,0,0,1,0,0" transform="translate(7.04 16.77)" fill="none" stroke="#040507" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2" stroke-dasharray="0 0"/>
+      </g>
+      <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(15 2)" fill="#ff5353" stroke="#fff" stroke-width="1" stroke-dasharray="0 0">
+        <circle cx="4" cy="4" r="4" stroke="none"/>
+        <circle cx="4" cy="4" r="3.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

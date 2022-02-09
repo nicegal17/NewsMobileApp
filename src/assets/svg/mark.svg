@@ -1,0 +1,15 @@
+<svg id="_17" data-name="17" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24"
+    height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="_17_Background_Mask_" data-name="17 (Background/Mask)" width="24" height="24" fill="none" />
+        </clipPath>
+    </defs>
+    <rect id="_17_Background_Mask_2" data-name="17 (Background/Mask)" width="24" height="24" fill="none" />
+    <g id="_17-2" data-name="17" clip-path="url(#clip-path)">
+        <path id="Vector"
+            d="M7.39,12.55,1.78,16.94A1.1,1.1,0,0,1,0,16.07V2.2A2.2,2.2,0,0,1,2.2,0H12.57a2.2,2.2,0,0,1,2.2,2.2V16.07a1.091,1.091,0,0,1-1.77.87Z"
+            transform="translate(4.59 3.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"
+            stroke-miterlimit="10" stroke-width="1.2" stroke-dasharray="0 0" />
+    </g>
+</svg>
